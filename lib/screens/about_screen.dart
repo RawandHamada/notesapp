@@ -102,7 +102,7 @@ class _AboutScreenState extends State<AboutScreen> {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   Text(
-                    'Flutter Course - Notes App V1.0',
+                    'Flutter  - Notes App V1.0',
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       fontFamily: 'Cairo',

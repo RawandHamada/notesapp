@@ -72,7 +72,7 @@ class _SettingScreenState extends State<SettingScreen> {
                                 child: CircleAvatar(
                                   backgroundColor: Color(0xFF6A90F2),
                                   child: Text(
-                                    'F',
+                                    'R',
                                     style: TextStyle(
                                         fontSize: 24, color: Colors.white),
                                   ),
